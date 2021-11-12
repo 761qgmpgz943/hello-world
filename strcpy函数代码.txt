@@ -10,9 +10,6 @@ char*StrCpy(char*src){
 	return ans;
 }
 /**
-远程edit1
+远程edit2
 **/
 
-/**
-本地编辑1
-**/
