@@ -9,12 +9,9 @@ char*StrCpy(char*src){
 	ans[i] = '\0';
 	return ans;
 }
-/**
-远程edit1
-**/
-
 
 
 /**
 本地编辑
 **/
+
